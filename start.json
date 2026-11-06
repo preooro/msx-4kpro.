@@ -1,5 +1,6 @@
+
 {
   "name": "4KPRO MSX",
   "version": "1.0.0",
-  "parameter": "menu:https://SEU-USUARIO.github.io/msx-4kpro/data/menu.json"
+  "parameter": "menu:https://preooro.github.io/msx-4kpro/data.menu.json"
 }
