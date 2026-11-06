@@ -1,0 +1,27 @@
+{
+  "name": "4KPRO Aplicativos",
+  "version": "1.0.0",
+  "style": "overlay",
+  "headline": "4KPRO | APLICATIVOS",
+  "menu": [
+    {
+      "icon": "apps",
+      "label": "APLICATIVOS",
+      "data": {
+        "type": "list",
+        "items": [
+          {
+            "title": "Aplicativos em breve",
+            "description": "A lista de aplicativos da 4KPRO será adicionada aqui.",
+            "action": "info:4KPRO"
+          },
+          {
+            "title": "Suporte e orientações",
+            "description": "Área reservada para instruções de instalação e suporte.",
+            "action": "info:4KPRO - Suporte"
+          }
+        ]
+      }
+    }
+  ]
+}
